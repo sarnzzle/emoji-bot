@@ -1,8 +1,0 @@
-{
-  "token": "NTg1NjQ4MjA1OTkyMDM0MzY0.XPclrw.Qa3_u-HKCvjejeK4HAW5gmo_VWw",
-  "databaseURL": "https://emojibot-8e9fc.firebaseio.com",
-  "reaction_timeout": "30000",
-  "pager_timeout": "60000",
-  "prefix": "%",
-  "owner_id": "181977552733208576"
-}
